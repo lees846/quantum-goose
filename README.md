@@ -8,7 +8,8 @@
 ## Running the Project
 
 To run and view the project locally, run the following terminal command
-`npm run dev` If you run this from VS Code, you can also use the "Go Live"
+`npm run dev`. 
+If you run this from VS Code, you can also use the "Go Live"
 button from the Live Server extension with the `index.html` file open.
 
 ## Todos

@@ -172,15 +172,19 @@ table {
   0% {
     transform: translate(-50%, -50%);
   }
+
   25% {
     transform: translate(-60%, -50%);
   }
+
   50% {
     transform: translate(-50%, -50%);
   }
+
   75% {
     transform: translate(-40%, -50%);
   }
+
   100% {
     transform: translate(-50%, -50%);
   }

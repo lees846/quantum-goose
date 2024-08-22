@@ -7,12 +7,14 @@
 
 ## Running the Project
 
-To run and view the project locally, run the following terminal command `npm run dev`
+To run and view the project locally, run the following terminal command
+`npm run dev` If you run this from VS Code, you can also use the "Go Live"
+button from the Live Server extension with the `index.html` file open.
 
 ## Todos
 
 - [ ] Add Readme Docs for building the project
-- [ ] Set up proper honking intervals from LeadGoose
-- [ ] Lose state triggered by measurement from LeadGosee
-- [ ] Build out title screen
-- [ ] Build out intructions screen
+- [x] Set up proper honking intervals from LeadGoose
+- [x] Lose state triggered by measurement from LeadGosee
+- [x] Build out title screen
+- [x] Build out intructions screen
